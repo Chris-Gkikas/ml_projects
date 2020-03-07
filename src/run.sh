@@ -1,0 +1,1 @@
+export TRAINING_DTA = os.e
