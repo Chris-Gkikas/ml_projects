@@ -143,3 +143,4 @@ models
 *.h5
 *.pkl
 *.pth
+.idea
